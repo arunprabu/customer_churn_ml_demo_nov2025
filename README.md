@@ -353,21 +353,6 @@ Ready for model training!
 
 **Duration**: ~2-3 seconds
 
-### Running from Different Locations
-
-If running from a different directory:
-
-```bash
-# Using absolute paths
-python /Users/saravana/Training2/adv-python-ai/labs/customer-churn-ml-demo/src/01_clean_data.py
-python /Users/saravana/Training2/adv-python-ai/labs/customer-churn-ml-demo/src/02_feature_engineering.py
-
-# Or change directory first
-cd /Users/saravana/Training2/adv-python-ai/labs/customer-churn-ml-demo
-python src/01_clean_data.py
-python src/02_feature_engineering.py
-```
-
 ---
 
 ## 📤 Output Files
@@ -618,7 +603,7 @@ This is a training/demonstration project for educational purposes.
 
 ## 👤 Author
 
-**AI/ML Trainer**  
+**Saravana Kumar and Arun Vijayarengan**  
 Date: November 2025
 
 ---
